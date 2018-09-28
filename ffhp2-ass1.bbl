@@ -1,0 +1,134 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{dolan}{book}{}
+      \name{author}{3}{}{%
+        {{hash=22d55450680ed026543c7ee040597c06}{%
+           family={Dolan},
+           familyi={D\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8ed7ee90692b2c799aee4701552b2a49}{%
+           family={Potter},
+           familyi={P\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1f336518a96b8dae43fb9fcda8eb8775}{%
+           family={Burdock},
+           familyi={B\bibinitperiod},
+           given={G.\bibnamedelimi A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{412e59842a011f884a43b351c5894b26}
+      \strng{fullhash}{412e59842a011f884a43b351c5894b26}
+      \strng{bibnamehash}{412e59842a011f884a43b351c5894b26}
+      \strng{authorbibnamehash}{412e59842a011f884a43b351c5894b26}
+      \strng{authornamehash}{412e59842a011f884a43b351c5894b26}
+      \strng{authorfullhash}{412e59842a011f884a43b351c5894b26}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evidence-based review on the effect of normal dietary consumption of fructose on blood lipids and body weight of overweight and obese individuals}
+      \field{year}{2010}
+    \endentry
+    \entry{tappy}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8deb0ccb381824225c33475df1fd113f}{%
+           family={Luc},
+           familyi={L\bibinitperiod},
+           given={Tappy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8deb0ccb381824225c33475df1fd113f}
+      \strng{fullhash}{8deb0ccb381824225c33475df1fd113f}
+      \strng{bibnamehash}{8deb0ccb381824225c33475df1fd113f}
+      \strng{authorbibnamehash}{8deb0ccb381824225c33475df1fd113f}
+      \strng{authornamehash}{8deb0ccb381824225c33475df1fd113f}
+      \strng{authorfullhash}{8deb0ccb381824225c33475df1fd113f}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fructose metabolism and noncommunicable diseases: recent findings and new research perspectives}
+      \field{year}{2018}
+    \endentry
+    \entry{macdonald}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4073145860a80af0410cc081c0375f41}{%
+           family={MacDonald},
+           familyi={M\bibinitperiod},
+           given={I.\bibnamedelimi A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4073145860a80af0410cc081c0375f41}
+      \strng{fullhash}{4073145860a80af0410cc081c0375f41}
+      \strng{bibnamehash}{4073145860a80af0410cc081c0375f41}
+      \strng{authorbibnamehash}{4073145860a80af0410cc081c0375f41}
+      \strng{authornamehash}{4073145860a80af0410cc081c0375f41}
+      \strng{authorfullhash}{4073145860a80af0410cc081c0375f41}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A review of recent evidence relating to sugars, insulin resistance and diabetes}
+      \field{year}{2016}
+    \endentry
+    \entry{markus}{book}{}
+      \name{author}{4}{}{%
+        {{hash=05ca3f940d386359fc92c467a31f1650}{%
+           family={Markus},
+           familyi={M\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e45786ed5ed8c92105b46ca346c418b3}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5fce0dd583711ba0bf84ed5ed38f8e4e}{%
+           family={Brounds},
+           familyi={B\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f35b0a9b650db73aa81a76c91c833449}{%
+           family={Schepers},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1df51470ea9b62e27b6a270cb1758141}
+      \strng{fullhash}{b561c0a5c4c62f680c51c06bcd787464}
+      \strng{bibnamehash}{1df51470ea9b62e27b6a270cb1758141}
+      \strng{authorbibnamehash}{1df51470ea9b62e27b6a270cb1758141}
+      \strng{authornamehash}{1df51470ea9b62e27b6a270cb1758141}
+      \strng{authorfullhash}{b561c0a5c4c62f680c51c06bcd787464}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Eating dependencies and weight gain; no human evidence for a 'sugar-addiction' model of overweight}
+      \field{year}{2017}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
